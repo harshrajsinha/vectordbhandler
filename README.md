@@ -33,3 +33,5 @@ Databases that support vector search (Source Available or Commercial)
 
 
 1. chroma
+
+pip install chromadb
